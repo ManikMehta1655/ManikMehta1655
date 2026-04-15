@@ -1,64 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Manik%20Mehta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20Building%20Impact&descAlignY=60&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manik%20Mehta&fontSize=80&fontColor=14FFEC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20MERN%20Specialist%20•%20AI/ML%20Explorer&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Design.+Build.+Scale.;🚀+Full-Stack+MERN+Developer;💻+Creating+Real+World+Projects;🔥+Consistency+is+My+Superpower" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14FFEC&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Building+Production-Grade+Applications+🚀;Specializing+in+Scalable+MERN+Systems;Passionate+About+Clean+Architecture+%26+Modern+UI" alt="Typing SVG" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManikMehta1655&color=14ffec&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ManikMehta&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" height="32px"> **About Me**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STACK-MERN-111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARNING-DSA%20%7C%20SYSTEM%20DESIGN-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GOAL-INDUSTRY%20READY-111?style=for-the-badge"/>
-
-</div>
-
----
-
-# 👨‍💻 MANIK MEHTA
-
-### ⚡ Full-Stack Developer | 🚀 MERN Enthusiast | 🎯 Problem Solver
-
----
-
-## 🧠 About Me
-
-<div align="center">
-
-<img align="right" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const manik = {
+interface Developer {
+  name: string;
+  role: string;
+  education: string;
+  location: string;
+  expertise: string[];
+  currentFocus: string[];
+  architecture: string[];
+  passion: string;
+}
+
+const manik: Developer = {
+  name: "Manik Mehta",
   role: "Full-Stack Developer",
-  education: "B.Tech Computer Science",
+  education: "B.Tech (AI & ML)",
   location: "India 🇮🇳",
-
-  languages: ["JavaScript", "Java", "Python"],
-
-  techStack: {
-    frontend: ["React", "HTML", "CSS", "Tailwind"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "Postman", "VS Code"]
-  },
-
-  currentFocus: [
-    "Building scalable full-stack applications",
-    "Mastering Data Structures & Algorithms",
-    "Learning system design fundamentals"
+  expertise: [
+    "Scalable MERN Systems",
+    "Secure Backend Architectures", 
+    "Modern UI/UX Design",
+    "RESTful API Development"
   ],
+  currentFocus: [
+    "Production-Grade Web Apps",
+    "Mobile Applications",
+    "AI-Powered Systems"
+  ],
+  architecture: [
+    "Multi-Tenant SaaS",
+    "Modular Backend Architecture",
+    "RESTful System Design"
+  ],
+  passion: "End-to-end product development — from database schemas to pixel-perfect UIs"
+};┌──────────────────────────────────────────────────────────┐
+│ React.js         ██████████████░░░░░░░░  Intermediate    │
+│ React Native     ███████████░░░░░░░░░░░  Intermediate    │
+│ JavaScript/ES6+  ███████████████░░░░░░░  Advanced        │
+│ TypeScript       ██████████░░░░░░░░░░░░  Intermediate    │
+│ HTML5/CSS3       ███████████████░░░░░░░  Advanced        │
+│ Tailwind CSS     █████████████░░░░░░░░░  Advanced        │
+└──────────────────────────────────────────────────────────┘<div align="center">
 
-  mindset: "Build → Fail → Improve → Repeat 🚀"
-};
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- REST SAME AS YOUR FILE (UNCHANGED) -->
+📫 Let's Connect
+<div align="center"> <table> <tr> <td align="center">
+
+@ManikMehta1655
+
+Check out my repositories
+
+</td> <td align="center">
+
+Manik Mehta
+
+Let's connect professionally
+
+</td> </tr> </table> </div> ```
