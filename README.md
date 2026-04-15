@@ -34,7 +34,7 @@ interface Developer {
 const manik: Developer = {
   name: "Manik Mehta",
   role: "Full-Stack Developer",
-  education: "B.Tech (AI & ML)",
+  education: "B.Tech (CSE)",
   location: "India 🇮🇳",
   expertise: [
     "Scalable MERN Systems",
@@ -53,40 +53,4 @@ const manik: Developer = {
     "RESTful System Design"
   ],
   passion: "End-to-end product development — from database schemas to pixel-perfect UIs"
-};┌──────────────────────────────────────────────────────────┐
-│ React.js         ██████████████░░░░░░░░  Intermediate    │
-│ React Native     ███████████░░░░░░░░░░░  Intermediate    │
-│ JavaScript/ES6+  ███████████████░░░░░░░  Advanced        │
-│ TypeScript       ██████████░░░░░░░░░░░░  Intermediate    │
-│ HTML5/CSS3       ███████████████░░░░░░░  Advanced        │
-│ Tailwind CSS     █████████████░░░░░░░░░  Advanced        │
-└──────────────────────────────────────────────────────────┘<div align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div> <!-- REST SAME AS YOUR FILE (UNCHANGED) -->
-📫 Let's Connect
-<div align="center"> <table> <tr> <td align="center">
-
-@ManikMehta1655
-
-Check out my repositories
-
-</td> <td align="center">
-
-Manik Mehta
-
-Let's connect professionally
-
-</td> </tr> </table> </div> ```
+};
